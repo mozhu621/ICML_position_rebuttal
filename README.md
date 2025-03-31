@@ -24,4 +24,4 @@ The table and figure below show the **average per-query** latency, number of inp
 
 **Visualization**:
 
-![chunking_experiment_results.png](chunking_experiment_results.png)
+<img src="chunking_experiment_results.png" width="600">
